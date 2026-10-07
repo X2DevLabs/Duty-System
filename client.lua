@@ -1,5 +1,4 @@
 -- Set to true if you run ox_lib and want its notifications.
--- Otherwise messages show in the default chat, so the script stays standalone.
 local USE_OX_LIB = false
 
 local BLIP_SPRITE, BLIP_COLOUR, BLIP_SCALE = 1, 3, 0.9
